@@ -1,0 +1,51 @@
+{
+  "_from": "vue-package-test-x@0.0.2-beta.29",
+  "_id": "vue-package-test-x@0.0.2-beta.29",
+  "_inBundle": false,
+  "_integrity": "sha512-ntVCRY03VRkXGsjPqA47i4ZGrRXVDKhoJJenAzWABoyoy8tnzZ6xtw+Eetf7+bTKiCKpvmYQLJ/eqwzkoxSJGg==",
+  "_location": "/vue-package-test-x",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "vue-package-test-x@0.0.2-beta.29",
+    "name": "vue-package-test-x",
+    "escapedName": "vue-package-test-x",
+    "rawSpec": "0.0.2-beta.29",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2-beta.29"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-package-test-x/-/vue-package-test-x-0.0.2-beta.29.tgz",
+  "_shasum": "b4d74ab06820858df44274997f42ef5de84156b0",
+  "_spec": "vue-package-test-x@0.0.2-beta.29",
+  "_where": "/home/shauzmayer/Dev/Testing/nuxt-test",
+  "author": {
+    "name": "Chris Fritz",
+    "email": "sara33y@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/saraha33/vue-package-test-x/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An example component library built with Vue CLI 3.",
+  "homepage": "https://www.npmjs.com/package/vue-package-test-x",
+  "jsdelivr": "umd/index.min.js",
+  "license": "MIT",
+  "main": "cjs/index.js",
+  "module": "index.js",
+  "name": "vue-package-test-x",
+  "peerDependencies": {
+    "vue": ">=2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraha33/vue-package-test-x.git"
+  },
+  "unpkg": "umd/index.min.js",
+  "version": "0.0.2-beta.29"
+}

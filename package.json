@@ -10,8 +10,7 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
-    "nuxt": "^2.13.0",
-    "vue-package-test-x": "0.0.2-beta.29"
+    "nuxt": "^2.13.0"
   },
   "devDependencies": {
     "node-sass": "^4.14.1",
